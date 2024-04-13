@@ -1,0 +1,15 @@
+{  
+  "name": "syntax-sage",  
+  "version": "1.5.8",  
+  "description": "sage区块监控模块",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/syntax-sage"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/syntax-sage"  
+}
